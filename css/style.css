@@ -43,7 +43,7 @@ body {
   width: 14px;
   display: inline-block;
   float: left;
-  padding-top: 16px;
+  padding-top: 19px;
   margin-left: 16px;
 }
 
@@ -51,7 +51,7 @@ body {
   width: 30px;
   display: inline-block;
   float: left;
-  padding-top: 14px;
+  padding-top: 17px;
   margin-left: 10px;
 }
 
@@ -59,7 +59,7 @@ body {
   width: 40%;
   display: inline-block;
   float: left;
-  padding-top: 11px;
+  padding-top: 14px;
   margin-left: 12px;
 }
 .nav_bar h1 {
@@ -82,7 +82,7 @@ body {
   background-size: contain;
   display: inline-block;
   float: right;
-  margin-top: 15px;
+  margin-top: 17px;
   margin-right: 16px;
 }
 
@@ -96,7 +96,7 @@ body {
   width: 28px;
   display: inline-block;
   float: right;
-  margin-top: 15px;
+  margin-top: 17px;
   margin-right: 16px;
 }
 
@@ -295,6 +295,7 @@ body {
   width: 24%;
   display: inline-block;
   text-align: center;
+  vertical-align: top;
 }
 
 .tabbar_text, a {
