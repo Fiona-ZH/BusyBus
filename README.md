@@ -1,6 +1,6 @@
 # BusyBus Mobile App UX Design
 
-![image](src="hi-fi_mockup.png")
+![image](src="/hi-fi_mockup.png")
 
 ## Summary
 
@@ -22,4 +22,5 @@ UX design, Visual Design
 ## Tools
 * Pen & paper
 * Figma
+* Marvel
 * InVision
