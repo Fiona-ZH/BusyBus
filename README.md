@@ -1,6 +1,6 @@
 # BusyBus Mobile App UX Design
 
-![image](src="/hi-fi_mockup.png")
+![mockup](/hi-fi_mockup.png)
 
 ## Summary
 
