@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# BusyBus Mobile App UX Design
 
-You can use the [editor on GitHub](https://github.com/Fiona-ZH/Fiona-ZH.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![image](src="hi-fi_mockup.png")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+The public transit system grows and the number of bus lines increases as response to the growing needs from commuters. However, it also causes confusions regarding the arriving buses, bus lines available at a certain stop and how soon the desired bus arrives. The goal of BusyBus is to provide users clear information on bus schedule and real-time location for a better commuting experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Role
+UX design, Visual Design
 
-```markdown
-Syntax highlighted code block
+## Deliverables
 
-# Header 1
-## Header 2
-### Header 3
+* User research
+* Competitive analysis
+* User Story
+* Wireframe
+* Hi-fi prototype
+* Usability testing
+* Interactive prototype
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fiona-ZH/Fiona-ZH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tools
+* Pen & paper
+* Figma
+* InVision
